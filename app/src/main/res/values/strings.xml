@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="card_gmail">marcellinocandyawan@gmail.com</string>
+    <string name="card_social">/@mage_mazh</string>
+    <string name="card_phone">0821-9113-5188</string>
+    <string name="card_job">Informatics Engineering Student</string>
+    <string name="card_name">Marcellino Candyawan</string>
+</resources>
